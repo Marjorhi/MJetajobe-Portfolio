@@ -517,7 +517,7 @@ header .follow a:hover{
     background: rgba(255, 255, 255, 0.6);
     height: 15px;
     z-index: -1;
-    border-radius: 50px;
+    border-radius: 40px;
     position: absolute;
   }
   
@@ -537,18 +537,18 @@ header .follow a:hover{
   }
 
   .html {
-    animation: html 2s;
-    width: 50%;
+    animation: html 30s;
+    width: 88%;
   }
   
   .css {
-    animation: css 2s;
-    width: 80%;
+    animation: css 30s;
+    width: 70%;
   }
   
   .js {
-    animation: js 2s;
-    width: 70%;
+    animation: js 30s;
+    width: 48%;
   }
 
 
